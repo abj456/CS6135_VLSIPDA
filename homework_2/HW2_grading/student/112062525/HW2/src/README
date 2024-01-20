@@ -1,0 +1,22 @@
+How to change the target testcase:
+    in /HW2/src/Makefile, edit the INPUTFILENAME
+    e.g. INPUTFILENAME = public* (just replace the * with a number within 1-6)
+    e.g. INPUTFILENAME = public1
+
+How to compile & run & verify:
+    in /HW2/src file, give "make" command in terminal
+
+How to compile:
+    in /HW2/src file, give "make build" command in terminal
+
+How to run:
+    in /HW2/src file, give "make run" command in terminal
+
+How to verify:
+    in /HW2/src file, give "make verify" command in terminal
+
+How to run & verify:
+    in /HW2/src file, give "make test" command in terminal
+
+How to clean:
+    in /HW2/src file, give "make clean" command in terminal
